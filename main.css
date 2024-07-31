@@ -112,3 +112,9 @@
     /* border-radius: 100%; */
     margin-bottom:1px;
 }
+@media only screen and  (max-width: 1250px) {
+    .cards{
+        display: flex;
+        flex-direction: column;
+    }
+  }
