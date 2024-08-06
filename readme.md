@@ -1,4 +1,4 @@
-**Hosted Live On :** https://weather-app-yashheda5s-projects.vercel.app/ 
+**Hosted Live On :** https://weatherappyash.vercel.app/ 
 
 **Step 1:** [Download](https://github.com/yashheda5/Weather-App/archive/refs/heads/main.zip) this repo as a zip
 
